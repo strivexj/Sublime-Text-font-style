@@ -1,1 +1,1 @@
-![preview](https://github.com/strivexj/Sublime-Text-font-style/master/preview.png)
+![preview](https://github.com/strivexj/Sublime-Text-font-style/blob/master/preview.png)
